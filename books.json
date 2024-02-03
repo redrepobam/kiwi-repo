@@ -1,6 +1,7 @@
 [
 
-  {"author":"some_author_1" , "name" : "some_name_1" , id: 1} , 
-  {"author":"some_author_2" , "name" : "some_name_1" , id: 2} , 
-  {"author":"some_author_3" , "name" : "some_name_1" , id: 2} 
+  {"author":"some_author_1" , "name" : "some_name_1" , "id": 1} , 
+  {"author":"some_author_2" , "name" : "some_name_1" , "id": 2} , 
+  {"author":"some_author_3" , "name" : "some_name_1" , "id": 2},
+  {"author":"ZINGA_B1" , "name" : "ZINGA_B1" , "id": 2}
 ]

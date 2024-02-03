@@ -10,4 +10,4 @@ const browser = await puppeteer.launch({
 const page = await browser.newPage()
 
 
-// get the selector to query later .... /// 
+// get the selector to query later .... /// awd
